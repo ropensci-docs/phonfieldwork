@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  data_manipulation_with_tidyverse: data_manipulation_with_tidyverse.html
+  ethical_research_with_phonfieldwork: ethical_research_with_phonfieldwork.html
+  phonfieldwork: phonfieldwork.html
+last_built: 2021-07-20T02:54Z
+urls:
+  reference: https://docs.ropensci.org/phonfieldwork/reference
+  article: https://docs.ropensci.org/phonfieldwork/articles
+

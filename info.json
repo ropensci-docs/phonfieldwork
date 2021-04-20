@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "09d5fc0c3e2649420e22c557151c2864d8dbeeab",
+    "author": "George Moroz <agricolamz@gmail.com>",
+    "time": "2021-04-20 06:02:29",
+    "files": 2,
+    "merge": false,
+    "message": "some changes in the reaname_soundfiles() funtion\n"
+  },
+  "remote": "https://github.com/ropensci/phonfieldwork",
+  "pkg": "phonfieldwork"
+}
