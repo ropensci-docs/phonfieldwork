@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9a5996a9e7112a7df905530b6abb65ac180cc43a",
+    "author": "George Moroz <agricolamz@gmail.com>",
+    "time": "2024-07-29T17:18:30Z",
+    "files": 2,
+    "merge": false,
+    "message": "new version\n"
+  },
+  "repo": "https://github.com/ropensci/phonfieldwork",
+  "pkg": "phonfieldwork",
+  "time": "2026-08-30T07:40:57Z"
+}
